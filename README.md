@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm a developer at [Red Hat](https://www.redhat.com/) working on
+[OpenShift](https://www.openshift.com/) on Bare Metal :metal:
+
+I'm also occassionally a TA for [CSCI E-92: Principles of Operating Systems](https://cscie92.dce.harvard.edu/), [CSCI E-93: Computer Architecture](https://cscie93.dce.harvard.edu/), and [CSCI E-95: Compiler Design and Implementation](https://cscie95.dce.harvard.edu/).
+
 
 <!--
 **stbenjam/stbenjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
