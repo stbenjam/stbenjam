@@ -2,7 +2,7 @@ I'm currently a developer at [Red Hat](https://www.redhat.com/) working on [Open
 
 Here's a picture of Tilly, my faithful pair programmer
 
-![image](https://user-images.githubusercontent.com/429763/142785274-5cca2b56-b62e-49f3-a14c-3e416485ad93.png)
+<img src="https://user-images.githubusercontent.com/429763/142785274-5cca2b56-b62e-49f3-a14c-3e416485ad93.png" alt="Picture of Tilly, a black labrador" width="33%"/>
 
 
 <!--
