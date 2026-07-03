@@ -1,4 +1,4 @@
-I'm currently a developer at [Red Hat](https://www.redhat.com/) working on [OpenShift](https://www.openshift.com/). Previously I worked on [The Foreman](https://theforeman.org/), [Metal3 🤘](https://metal3.io/), and various other things. I'm also occassionally a TA for [CSCI E-92](https://cscie92.dce.harvard.edu/), [CSCI E-93](https://cscie93.dce.harvard.edu/), and [CSCI E-95](https://cscie95.dce.harvard.edu/).
+Staff Engineer at [Red Hat](https://www.redhat.com/).  Have worked on [OpenShift](https://www.openshift.com/), [Metal3 🤘](https://metal3.io/), [The Foreman](https://theforeman.org/), and various other things. I've also been a TA for [CSCI E-92](https://cscie92.dce.harvard.edu/), [CSCI E-93](https://cscie93.dce.harvard.edu/), and [CSCI E-95](https://cscie95.dce.harvard.edu/).
 
 Here's a picture of Tilly, my faithful pair programmer
 
